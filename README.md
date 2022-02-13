@@ -13,3 +13,10 @@ Saya juga memiliki gelar [Google Associate Android Developer](https://www.creden
 Saya juga sedang mengikuti Dicoding Academy dengan learning Path Cloud Computing.\
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](https://github.com/anjardm)ku ya.
+
+<p align="left">
+<a href="https://github.com/anjardm">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anjardm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anjardm&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
